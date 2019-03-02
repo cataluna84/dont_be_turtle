@@ -1,6 +1,6 @@
 # Don't be a Turtle Project 
 
-Author: Jaewook Kang
+Author: Jaewook Kang and Mayank Bhaskar
 
 
 ## About
