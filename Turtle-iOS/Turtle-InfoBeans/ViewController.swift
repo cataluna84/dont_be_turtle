@@ -38,6 +38,7 @@ class ViewController: UIViewController {
     
     
     // MARK - Core ML model
+    // model_itr184400_b32_d25 - Is able to accurately detect the left shoulder, whereas the labels on neck, top and right shoulder need more iterations
     typealias EstimationModel = model_itr184400_b32_d25
     var coremlModel: EstimationModel? = nil
     
